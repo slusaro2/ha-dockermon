@@ -2,3 +2,7 @@
 @@||przyklad.pl^
 @@||tvp.pl^
 @@||doubleclick.net^
+@@||googlesyndication.com^
+@@||pagead2.googlesyndication.com^
+@@||googleads.g.doubleclick.net^
+@@||securepubads.g.doubleclick.net^
