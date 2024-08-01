@@ -1,3 +1,4 @@
 @@||vod.tvp.pl^
 @@||przyklad.pl^
 @@||tvp.pl^
+@@||doubleclick.net^
